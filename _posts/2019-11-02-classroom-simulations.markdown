@@ -28,3 +28,5 @@ A more detailed description of *Pluie de Balles* and other simulations developed
 ### Twelve Days to London
 
 Yet another game rooted in the British late 19th century invasion scares is *Twelve Days to London*. This is turn-based, theatre-level operational wargame played on a map that includes most of southern England. Gaming mechanisms are also umpired-based and very closely modeled after the [Prussian Kriegsspiel](https://cosimg.github.io/blog/2022/04/24/player-of-the-month-intro.html). However, due to its turn-based design - players receive collected messages and intel from their formation commanders and hand in detailed orders once a day - *Twelve Days to London* is is especially suited for Email-based online games.
+
+More about *Twelve Days to London* in our [Blog](https://cosimg.github.io/blog/2020/04/01/twelve-days-to-london.html).
