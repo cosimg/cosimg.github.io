@@ -22,6 +22,7 @@ A more detailed description of *Pluie de Balles* and other simulations developed
 
 
 ### Sussex Sorrows
+![Karte]({{site.baseurl}}/assets/img/SussexSorrows.jpg)
 
 *Sussex Sorrows*, a real-time operational wargame with a strong emphasis on communication, information processing and staff work, that is also set in a [Victorian invasion novel](https://en.wikipedia.org/wiki/Invasion_literature) scenario. It is closely modeled after the original [Prussian Kriegsspiel](https://cosimg.github.io/blog/2022/04/24/player-of-the-month-intro.html) and requires an umpire-to-player ratio of about 1:3. Much like the Prussian original *Sussex Sorrows* easily allows for the depiction of multiple command levels on the player side. Scenarios usually depict large-scale, multi-day battles on army corps level. 
 
