@@ -10,7 +10,7 @@ tags: [didactics, classroom use]
 
 For the past ten years we have developed conflict simulations for a wide range of application in academic education and employed them in class. They range from simple, small-scale simulations designed to illustrate a specific aspect of a political or military conflict of the past to large and complex simulations aimed at providing participants with some experience of general issues related to political and military decision making. These participants usually are either students in our *Digital Humanities* BA and MA programs or military officers and officer candidates. 
 
-## Selected developments
+## Example simulations
 
 ### Pluie de Balles
 ![Karte]({{site.baseurl}}/assets/img/pdb.jpg)
