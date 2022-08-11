@@ -32,13 +32,19 @@ The Conflict Simulation Group also regularly runs Kriegsspiele based on the rule
 
 The Conflict Simulation Group has developed a three-tier simulation system that closely follows Meckel's ideas and consists of three different simulations all built around the same basic combat resolution mechanism: the tactical simulation **"Doom of Eastbourne"**, the operational simulation **"Sussex Sorrows"** and the strategic (ie theatre-level) simulation **"Twelve Days to London"**. All three simulations are based on the same scenario, a French invasion in Britain in 1883. While this may seem to be rather outlandish at first, it is in fact a nod to the very first wargames run by the British army in the early 1870s - which routinely saw a "blue" army invading Britain and a "red" army defending the realm. The fear of invasion was at the time not confined to military circles, as several "invasion scares" in the late 19th c. as well as hundreds of literary (or semi-literary) texts covering such invasions published between 1871 and 1914 show. Also, using a pre-World War I scenario eases the workload of the facilitators considerably, as conflict is still fundamentally a two-dimensional affair, yet it is still close enough to the realities of modern warfare so that no lengthy historical introduction is required. All three simulatons also share the inclusion of role-playing elements. Participants will find brief biographical information on their subordinate commanders in their briefing material, allowing the facilitators a certain amount of leeway when it comes to executing orders and reporting back. Experience has shown that the impact of the actual character of these subordinate commanders can be nothing short of dramatic (with a capital D...).
 
-**"Doom of Eastbourne"** is a tactical simulation covering the defence of an English coastal town against a French attacker. It normally has two teams of 3-6 participants facing each other and runs over 3-6 hours. It includes some logistics and casualty management elements, but has only limited civil-military interaction elements.
+**"Doom of Eastbourne"** is a tactical simulation covering the defence of the lovely English seaside town of Eastbourne against a French attacker. 
+
+![Karte]({{site.baseurl}}/assets/img/Eastbourne_1520.png)
+
+<sub>After five hours of intense fighting, the defenders still cling to the railway station, but barely</sub>
+
+It normally has two teams of 3-6 participants facing each other and runs over 3-6 hours. It includes some logistics and casualty management elements, but has only limited civil-military interaction elements.
 
 **"Sussex Sorrows"** is an operational simulation covering the attempt of a French force to expand its bridgehead in Southern England. It usually has ten teams of 3-6 participants facing each other, with each side consisting of one army corps team and four divisional command teams. Participants not only have to manage their subordinate forces but also coordinate their internal communication, which, as experience has shown time and again, can rapidly become a major issue. 
 
 ![Karte]({{site.baseurl}}/assets/img/bridgehead_collapsing.png)
 
-<sub>French bridgehead collapsing after three days of heavy fighting/sub>
+<sub>French bridgehead collapsing after three days of heavy fighting</sub>
 
 "Sussex Sorrows" covers a space of 40km by 70km and features both logistics and casualty management elements as well as civil-military interaction which, depending on the decisions of the participants, can provide a considerable amount of distraction. "Sussex Sorrows" is usually designed as a three-day real-time simulation (running either on three consecutive days or on three weekends allowing participants more time to fully digest the chaos they have created on each day).
 
