@@ -44,42 +44,17 @@ The Conflict Simulation Group has developed a three-tier simulation system that 
 
 ![Karte]({{site.baseurl}}/assets/img/Tag4.jpg)
 
-It usually has two teams of 4-8 participants facing each other and runs over twelve consecutive days; for reasons of practicability it is the only simulation run by the Conflict Simulation Group that is not run in real time - participants send in their orders for the next day until 2359, the facilitators then execute these orders, prepare reports and other materials until 1800 on the following day, which then leaves the participants about six hours to go through the material and write new orders.
+It usually has two teams of 4-8 participants facing each other and runs over twelve consecutive days; for reasons of practicability it is the only simulation run by the Conflict Simulation Group that is not run in real time - participants send in their orders for the next day until 2359, the facilitators then execute these orders, prepare reports and other materials until 1800 on the following day, which then leaves the participants about six hours to go through the material and write new orders. For more on **"Twelve Days to London"** see the [Blog](https://cosimg.github.io/blog/2020/04/01/twelve-days-to-london.html).
   
 
 **3. Pluie de Balles - The "gamefied" Kriegsspiel.**
 
-![Karte]({{site.baseurl}}/assets/img/pdb.jpg)
-
 On of the main drawbacks of the Prussian Kriegsspiel is the simple fact that the facilitators usually try to do their best to keep the simulation running. While this sounds like a blindingly obvious fact, it is actually a major problem: as the faciliators in the Prussian Kriegsspiel represent all levels of command below that of the participants, the latter effectively have subordinates that will always, and without question, execute orders as quickly and as efficiently as possible. While the introduction of role-playing elements can counter this tendency to a certain extent, it is still all but impossible to depict subordinates who simply ignore direct orders - yet these things can happen and do happen in war, for a variety of reasons. 
+
+![Karte]({{site.baseurl}}/assets/img/pdb.jpg)
 
 The largest and most complex simulation currently employed by the Conflict Simulation Group addresses this problem by replacing the facilitators with more participants, who move around forces on large maps using simple tabletop mechanisms, while other participants sit in staff rooms eagerly awaiting reports from their subordinates - who have to balance the need of controlling their forces and of writing reports back to their taff. Pluie de Balles exposes the participants to some of the friction that is caused by having to process information, make decisions and communicate under stress, as well as to test the limits of the participants’ capability of working together as a team. Pluie de Balls, which is also based on late 19th c. invasion scenarios, is run on a regular basis with groups of up to 40 or more participants from both a civilian and a military background. Participants regularly describe their experiences as highly illuminating though, due to the considerable stress involved, not always exactly enjoyable.
 
 The rule set is inspired by the historical Prussian Kriegsspiel and designed with scalability in mind. It allows for 2-3 umpires to easily accommodate 40 participants or more, of which about a third will have an experience very similar to that of the original Prussian Kriegsspiel. The remaining participants require some basic knowledge of the rules and game mechanics, easily provided during the time required for the others to develop their operational plan. A brief overview over Pluie de Balles and its purpose can be found in the publication [*Pluie de Balles - complex wargames in the classroom*](http://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/).
 
 
-For the past ten years we have developed conflict simulations for a wide range of applications in academic education and employed them in class. They range from simple, small-scale simulations designed to illustrate a specific aspect of a political or military conflict of the past to large and complex simulations aimed at providing participants with some experience of various general issues related to political and military decision making. These participants usually are either students in our *Digital Humanities* and *History* programs or military officers and officer candidates. Below are brief descriptions of three simulations directly based on the Prussian *Kriegsspiel*; descriptions of other simulations will follow soon.
-
-
-### Pluie de Balles
-![Karte]({{site.baseurl}}/assets/img/pdb.jpg)
-
-The largest and most complex simulation we currently employ is an army corps level simulation called *Pluie de Balles* or PdB for short. PdB is aimed both at university students and at other early-career decision makers, both military and civilian. It is designed to expose the participants to some of the friction that is caused by having to process information, make decisions and communicate under stress, as well as to test the limits of the participants' capability of working together as a team. We have run PdB successfully on a regular basis with groups of up to 40 or more participants from both a civilian and a military background. Despite its slightly unusual setting - PdB scenarios are usually based on Victorian invasion novel literature - participants regularly describe their experiences as highly illuminating though, due to the stress involved, not always exactly enjoyable. 
-
-The rule set is inspired by the historical [Prussian Kriegsspiel](https://cosimg.github.io/blog/2022/04/24/player-of-the-month-intro.html) and designed with scalability in mind. It allows for 2-3 umpires to easily accommodate 40 participants or more, of which about a third will have an experience very similar to that of the original Prussian *Kriegsspiel*. The remaining participants require some basic knowledge of the rules and game mechanics, easily provided during the time required for the others to develop their operational plan.
-
-A more detailed description of *Pluie de Balles* will follow soon. A brief overview over PdB and its purpose can be found in our publication [*Pluie de Balles - complex wargames in the classroom*](http://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/).
-
-
-### Sussex Sorrows
-![Karte]({{site.baseurl}}/assets/img/SussexSorrows.jpg)
-
-*Sussex Sorrows* is a real-time operational wargame with a strong emphasis on communication, information processing and staff work, that is also set in a Victorian invasion novel scenario. It is very closely modeled on the original [Prussian Kriegsspiel](https://cosimg.github.io/blog/2022/04/24/player-of-the-month-intro.html) and requires a facilitator-to-player ratio of about 1:3. Much like the Prussian original *Sussex Sorrows* easily allows for the depiction of multiple command levels if large numbers of participants are available. Scenarios usually depict large-scale, army corps level battles that run for several days.
-
-### Twelve Days to London
-
-![Karte]({{site.baseurl}}/assets/img/Tag4.jpg)
-
-Yet another game rooted in the British late 19th century invasion scares is *Twelve Days to London*. This is a turn-based, theatre-level operational wargame based on a map that covers a significant part of southern England. Like *Sussex Sorrows*, *Twelve Days to London* makes use of facilitators and is very closely modeled on the [Prussian Kriegsspiel](https://cosimg.github.io/blog/2022/04/24/player-of-the-month-intro.html). However, due to its turn-based design - participants receive collected messages and intel from their formation commanders and hand in detailed orders once a day - *Twelve Days to London* is well-suited for email-based online games.
-
-More about *Twelve Days to London* in our [Blog](https://cosimg.github.io/blog/2020/04/01/twelve-days-to-london.html).
