@@ -14,8 +14,6 @@ At present, the Conflict Simulation Group regularly runs three different Kriegss
   
 &nbsp;
 
-&nbsp;
-
 **1. The "traditional" Prussian Kriegsspiel.**
 
 The Conflict Simulation Group runs Kriegsspiele using the rules published by **Wilhelm von Tschischwitz** in 1867; it was this set of rules that started wargaming in the anglophone world when it was acquired by the British in 1872, and it is closest to the map the Conflict Simulation Group uses, an 1867 map of the Battlefield of Königgrätz, which is one of the very few Kriegsspiel maps still extant. Scenarios are usually of a strictly tactical nature, with very little non-kinetic happening in the battlespace; this is due to the original Kriegsspiel rules mostly ignoring issues of logistics, casualty management or civil-military interaction, concentrating instead on tactical decision making. Scenarios will invariably be based on the actual Battle of Königgrätz; while in theory, the whole battle could be simulated, the realities of logistics (in particular the number of available facilitators) usually restrict scenarios to up to one or two army corps on each side, with participants divided up into divisional and corps staff teams.
