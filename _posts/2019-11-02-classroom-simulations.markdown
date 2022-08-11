@@ -12,8 +12,11 @@ For the past ten years the Conflict Simulation Group has developed conflict simu
 
 At present, the Conflict Simulation Group regularly runs three different Kriegsspiel-type simulations.
   
+&nbsp;
 
-###**1. The "traditional" Prussian Kriegsspiel.**
+&nbsp;
+
+**1. The "traditional" Prussian Kriegsspiel.**
 
 The Conflict Simulation Group runs Kriegsspiele using the rules published by **Wilhelm von Tschischwitz** in 1867; it was this set of rules that started wargaming in the anglophone world when it was acquired by the British in 1872, and it is closest to the map the Conflict Simulation Group uses, an 1867 map of the Battlefield of Königgrätz, which is one of the very few Kriegsspiel maps still extant. Scenarios are usually of a strictly tactical nature, with very little non-kinetic happening in the battlespace; this is due to the original Kriegsspiel rules mostly ignoring issues of logistics, casualty management or civil-military interaction, concentrating instead on tactical decision making. Scenarios will invariably be based on the actual Battle of Königgrätz; while in theory, the whole battle could be simulated, the realities of logistics (in particular the number of available facilitators) usually restrict scenarios to up to one or two army corps on each side, with participants divided up into divisional and corps staff teams.
 
@@ -26,7 +29,7 @@ In running the "traditional" Kriegsspiel, the Conflict Simulation Group follows 
 **Consequence** - Once underway, the simulation will not stop to address mistakes made by the participants. It is one of the key objectives of the Kriegsspiel to confront the participants with the results of failure, and if questionable decisions, slow operational tempo or other factors cause plans to unravel, then participants will have to deal with it.
   
 
-###**2. The Meckel Kriegsspiel.**
+**2. The Meckel Kriegsspiel.**
 
 The Conflict Simulation Group also regularly runs Kriegsspiele based on the rules published in 1875 by Jakob Meckel, the Kriegsspiel's greatest theoretician. He introduced the distinction of tactical, operational and strategic Kriegsspiele ("strategic" in the usage of the time meaning a theatre-level wargame), and from the 1880s onwards operational Kriegsspiele became quite common in German armies; surviving records show that the Bavarian army for example regularly ran one large-scale operational wargame each summer, usually involving all of the Bavarian army.
 
@@ -55,7 +58,7 @@ It normally has two teams of 3-6 participants facing each other and runs over 3-
 It usually has two teams of 4-8 participants facing each other and runs over twelve consecutive days; for reasons of practicability it is the only simulation run by the Conflict Simulation Group that is not run in real time - participants send in their orders for the next day until 2359, the facilitators then execute these orders, prepare reports and other materials until 1800 on the following day, which then leaves the participants about six hours to go through the material and write new orders. For more on **"Twelve Days to London"** see the [Blog](https://cosimg.github.io/blog/2020/04/01/twelve-days-to-london.html).
   
 
-###**3. Pluie de Balles - The "gamefied" Kriegsspiel.**
+**3. Pluie de Balles - The "gamefied" Kriegsspiel.**
 
 On of the main drawbacks of the Prussian Kriegsspiel is the simple fact that the facilitators usually try to do their best to keep the simulation running. While this sounds like a blindingly obvious fact, it is actually a major problem: as the faciliators in the Prussian Kriegsspiel represent all levels of command below that of the participants, the latter effectively have subordinates that will always, and without question, execute orders as quickly and as efficiently as possible. While the introduction of role-playing elements can counter this tendency to a certain extent, it is still all but impossible to depict subordinates who simply ignore direct orders - yet these things can happen and do happen in war, for a variety of reasons. 
 
