@@ -26,6 +26,7 @@ In running the "traditional" Kriegsspiel, the Conflict Simulation Group follows 
 
 **Consequence** - Once underway, the simulation will not stop to address mistakes made by the participants. It is one of the key objectives of the Kriegsspiel to confront the participants with the results of failure, and if questionable decisions, slow operational tempo or other factors cause plans to unravel, then participants will have to deal with it.
   
+&nbsp;
 
 **2. The Meckel Kriegsspiel.**
 
@@ -54,7 +55,8 @@ It normally has two teams of 3-6 participants facing each other and runs over 3-
 ![Karte]({{site.baseurl}}/assets/img/Tag4.jpg)
 
 It usually has two teams of 4-8 participants facing each other and runs over twelve consecutive days; for reasons of practicability it is the only simulation run by the Conflict Simulation Group that is not run in real time - participants send in their orders for the next day until 2359, the facilitators then execute these orders, prepare reports and other materials until 1800 on the following day, which then leaves the participants about six hours to go through the material and write new orders. For more on **"Twelve Days to London"** see the [Blog](https://cosimg.github.io/blog/2020/04/01/twelve-days-to-london.html).
-  
+
+&nbsp;
 
 **3. Pluie de Balles - The "gamefied" Kriegsspiel.**
 
