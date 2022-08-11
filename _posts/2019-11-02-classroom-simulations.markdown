@@ -36,7 +36,9 @@ The Conflict Simulation Group has developed a three-tier simulation system that 
 
 **"Sussex Sorrows"** is an operational simulation covering the attempt of a French force to expand its bridgehead in Southern England. It usually has ten teams of 3-6 participants facing each other, with each side consisting of one army corps team and four divisional command teams. Participants not only have to manage their subordinate forces but also coordinate their internal communication, which, as experience has shown time and again, can rapidly become a major issue. 
 
-![Karte]({{site.baseurl}}/assets/img/SussexSorrows.jpg)
+![Karte]({{site.baseurl}}/assets/img/bridgehead_collapsing.png)
+
+<sub>French bridgehead collapsing after three days of heavy fighting/sub>
 
 "Sussex Sorrows" covers a space of 40km by 70km and features both logistics and casualty management elements as well as civil-military interaction which, depending on the decisions of the participants, can provide a considerable amount of distraction. "Sussex Sorrows" is usually designed as a three-day real-time simulation (running either on three consecutive days or on three weekends allowing participants more time to fully digest the chaos they have created on each day).
 
