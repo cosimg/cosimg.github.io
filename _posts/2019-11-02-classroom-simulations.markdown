@@ -62,7 +62,7 @@ It usually has two teams of 4-8 participants facing each other and runs over twe
 
 &nbsp;
 
-**3. Pluie de Balles - The "gamefied" Kriegsspiel.**
+**3. Pluie de Balles - The "gamified" Kriegsspiel.**
 
 On of the main drawbacks of the Prussian Kriegsspiel is the simple fact that the facilitators usually try to do their best to keep the simulation running. While this sounds like a blindingly obvious fact, it is actually a major problem: as the faciliators in the Prussian Kriegsspiel represent all levels of command below that of the participants, the latter effectively have subordinates that will always, and without question, execute orders as quickly and as efficiently as possible. While the introduction of role-playing elements can counter this tendency to a certain extent, it is still all but impossible to depict subordinates who simply ignore direct orders - yet these things can happen and do happen in war, for a variety of reasons. 
 
