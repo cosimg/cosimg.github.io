@@ -15,7 +15,7 @@ Publications on conflict simulation by the conflict simulation group:
 
 - Wintjes, J. (2021). The Prussian Kriegsspiel and the importance of adversarial wargaming. *Ilmatorjunta* 4, 7-10.
 
-- Henning, P. (2021). ‘Game on!’ A research project on the Prussian Kriegsspiel. [*British Journal for Military History* 7, 174-183](https://bjmh.gold.ac.uk/article/view/1561)
+- Henning, P. (2021). ‘Game on!’ A research project on the Prussian Kriegsspiel. [*British Journal for Military History* 7, 174-183](https://bjmh.gold.ac.uk/article/view/1561).
 
 - Wintjes J. (2019). Das Kriegsspiel des Wilhelm von Tschischwitz. *GIDS Analysis 3*, Hamburg: Budrich.
 
