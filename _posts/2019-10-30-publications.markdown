@@ -9,16 +9,22 @@ tags: [publications]
 ---
 Publications on conflict simulation by the conflict simulation group:
 
-- Wintjes, J and Pielström, S (in preparation). La Pluie de Balles – Invasion Scare as Conflict Simulation.
+- Wintjes, J. and Pielström, S. (in preparation). La Pluie de Balles – Invasion Scare as Conflict Simulation.
 
-- Wintjes J (2019). Das Kriegsspiel des Wilhelm von Tschischwitz. *GIDS Analysis 3*, Hamburg: Budrich.
+- Wintjes, J. (2022). A School for War – A Brief History of the Prussian Kriegsspiel, in: C. Turnitsa/C. Blais/A. Tolk (eds.). *Simulation and Wargaming*, Hoboken: Wiley,  25-64.
 
-- Wintjes, J and Pielström, S (2019). "Preußisches Kriegsspiel" - Ein Projekt an der Julius-Maximilians-Universität Würzburg. *Militärgeschichtliche Zeitschrift* 78, 86-98.
+- Wintjes, J. (2021). The Prussian Kriegsspiel and the importance of adversarial wargaming. *Ilmatorjunta* 4, 7-10.
 
-- Wintjes, J and Pielström, S (2018). Pluie de Balles - Complex Wargames in the Classroom. [*Analog Game Studies* V, Issue III](http://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/).
+- Henning, P. (2021). ‘Game on!’ A research project on the Prussian Kriegsspiel. [*British Journal for Military History* 7, 174-183](https://bjmh.gold.ac.uk/article/view/1561)
 
-- Wintjes, J (2017). When a Spiel is not a Game: The Prussian Kriegsspiel from 1824 to 1871. *Vulcan* 5, 5-28.
+- Wintjes J. (2019). Das Kriegsspiel des Wilhelm von Tschischwitz. *GIDS Analysis 3*, Hamburg: Budrich.
 
-- Wintjes, J (2016). “Not an Ordinary Game, But a School of War”: Notes on the Early History of the Prusso-German Kriegsspiel. *Vulcan* 4, 52-75.
+- Wintjes, J. and Pielström, S. (2019). "Preußisches Kriegsspiel" - Ein Projekt an der Julius-Maximilians-Universität Würzburg. *Militärgeschichtliche Zeitschrift* 78, 86-98.
 
-- Wintjes, J (2015). Europe’s Earliest Kriegsspiel? Book Seven of Reinhard Graf zu Solms’ Kriegsregierung and the ‘Prehistory’ of Professional War Gaming. [*British Journal for Military History* 2, 15-33](http://bjmh.org.uk/index.php/bjmh/article/view/68).
+- Wintjes, J. and Pielström, S. (2018). Pluie de Balles - Complex Wargames in the Classroom. [*Analog Game Studies* V, Issue III](http://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/).
+
+- Wintjes, J. (2017). When a Spiel is not a Game: The Prussian Kriegsspiel from 1824 to 1871. *Vulcan* 5, 5-28.
+
+- Wintjes, J. (2016). “Not an Ordinary Game, But a School of War”: Notes on the Early History of the Prusso-German Kriegsspiel. *Vulcan* 4, 52-75.
+
+- Wintjes, J. (2015). Europe’s Earliest Kriegsspiel? Book Seven of Reinhard Graf zu Solms’ Kriegsregierung and the ‘Prehistory’ of Professional War Gaming. [*British Journal for Military History* 2, 15-33](http://bjmh.gold.ac.uk/article/view/68).
