@@ -14,7 +14,7 @@ This section covers the ***Occasional Papers series*** and other publications by
 
 ***Occasional Papers***
 
-Over the past decade the Conflict Simulation Group has used a variety of wargames in class. The Occasional Papers series is primarily intended to publish these together with any other material that might be interesting for other wargamers. Publications will usually be accompanied by a blog entry offering further explanations and in some cases further material.
+Over the past decade the Conflict Simulation Group has used a variety of wargames in class. The ***Occasional Papers series*** is primarily intended to publish these together with any other material that might be interesting for other wargamers. Publications will usually be accompanied by a blog entry offering further explanations and in some cases further material.
 
 Please note that copies produced for online retailers outside Germany will be in black&white only.
 
@@ -26,9 +26,9 @@ For additional information see the relevant [blog entry](https://cosimg.github.i
 
 ***Occasional Papers no 2***:
 
-Wintjes, J. and Pielström, S. (in preparation). La Pluie de Balles – Invasion Scare as Conflict Simulation.
+Wintjes, J. and Pielström, S. (in preparation). *La Pluie de Balles – Invasion Scare as Conflict Simulation.*
 
-The second publication in the Occasional Papers series provides the rules for CoSimG's gamefied Kriegsspiel, *Pluie de Balles*; for more information see [here](https://cosimg.github.io/2019/11/02/classroom-simulations.html) and [here (external link)](https://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/). 
+The second publication in the Occasional Papers series will provide the rules for CoSimG's gamefied Kriegsspiel, *Pluie de Balles*; for more information see [here](https://cosimg.github.io/2019/11/02/classroom-simulations.html) and [here (external link)](https://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/). 
 
 **Other Publications on conflict simulation by members of the Conflict Simulation Group:**
 
