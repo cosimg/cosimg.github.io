@@ -7,9 +7,30 @@ img: shelf3.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [publications]
 ---
-Publications on conflict simulation by the conflict simulation group:
 
-- Wintjes, J. and Pielström, S. (in preparation). La Pluie de Balles – Invasion Scare as Conflict Simulation.
+**Publications**
+
+This section covers the ***Occasional Papers series*** and other publications by members of the Conflict Simulation Group.
+
+***Occasional Papers***
+
+Over the past decade the Conflict Simulation Group has used a variety of wargames in class. The Occasional Papers series is primarily intended to publish these together with any other material that might be interesting for other wargamers. Publications will usually be accompanied by a blog entry offering further explanations and in some cases further material.
+
+Please note that copies produced for online retailers outside Germany will be in black&white only.
+
+***Occasional Papers no 1***:
+
+Wintjes, J. and Pielström, S. 2022. Sussex Sorrows. A set of Kriegsspiel rules including the supplements Doom of Eastbourne and Useful Idiots And Insufferable Geniuses. Norderstedt: BoD.
+
+For additional information see the relevant [blog entry](https://cosimg.github.io/blog/2022/12/15/How-to-run-a-Kriegsspiel.html).
+
+***Occasional Papers no 2***:
+
+Wintjes, J. and Pielström, S. (in preparation). La Pluie de Balles – Invasion Scare as Conflict Simulation.
+
+Other Publications on conflict simulation by members of the Conflict Simulation Group:
+
+**Publications on conflict simulation by the conflict simulation group:**
 
 - Wintjes, J. (2022). A School for War – A Brief History of the Prussian Kriegsspiel, in: C. Turnitsa/C. Blais/A. Tolk (eds.). *Simulation and Wargaming*, Hoboken: Wiley,  25-64.
 
