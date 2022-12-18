@@ -20,13 +20,15 @@ Please note that copies produced for online retailers outside Germany will be in
 
 ***Occasional Papers no 1***:
 
-Wintjes, J. and Pielström, S. 2022. Sussex Sorrows. A set of Kriegsspiel rules including the supplements Doom of Eastbourne and Useful Idiots And Insufferable Geniuses. Norderstedt: BoD.
+Wintjes, J. and Pielström, S. 2022. *Sussex Sorrows. A set of Kriegsspiel rules including the supplements Doom of Eastbourne and Useful Idiots And Insufferable Geniuses*. Norderstedt: BoD.
 
 For additional information see the relevant [blog entry](https://cosimg.github.io/blog/2022/12/15/How-to-run-a-Kriegsspiel.html).
 
 ***Occasional Papers no 2***:
 
 Wintjes, J. and Pielström, S. (in preparation). La Pluie de Balles – Invasion Scare as Conflict Simulation.
+
+The second publication in the Occasional Papers series provides the rules for CoSimG's gamefied Kriegsspiel, *Pluie de Balles*; for more information see [here](https://cosimg.github.io/2019/11/02/classroom-simulations.html) and [here (external link)](https://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/). 
 
 **Other Publications on conflict simulation by members of the Conflict Simulation Group:**
 
