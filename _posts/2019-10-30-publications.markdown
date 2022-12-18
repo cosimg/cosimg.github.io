@@ -28,9 +28,7 @@ For additional information see the relevant [blog entry](https://cosimg.github.i
 
 Wintjes, J. and Pielström, S. (in preparation). La Pluie de Balles – Invasion Scare as Conflict Simulation.
 
-Other Publications on conflict simulation by members of the Conflict Simulation Group:
-
-**Publications on conflict simulation by the conflict simulation group:**
+**Other Publications on conflict simulation by members of the Conflict Simulation Group:**
 
 - Wintjes, J. (2022). A School for War – A Brief History of the Prussian Kriegsspiel, in: C. Turnitsa/C. Blais/A. Tolk (eds.). *Simulation and Wargaming*, Hoboken: Wiley,  25-64.
 
