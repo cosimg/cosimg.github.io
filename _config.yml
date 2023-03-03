@@ -2,8 +2,8 @@
 title: Conflict Simulation Group
 description: > # this means to ignore newlines until "baseurl:"
   The Conflict Simulation Group at the University of Würzburg
-url: https://github.com/cosimg
-baseurl: 
+url: ""
+baseurl: /"cosimg.github.io"
 
 site-twitter: #if your site has a twitter account, enter it here
 
