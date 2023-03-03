@@ -48,4 +48,4 @@ The second publication in the Occasional Papers series will provide the rules fo
 
 - Wintjes, J. (2016). “Not an Ordinary Game, But a School of War”: Notes on the Early History of the Prusso-German Kriegsspiel. *Vulcan* 4, 52-75.
 
-- Wintjes, J. (2015). Europe’s Earliest Kriegsspiel? Book Seven of Reinhard Graf zu Solms’ Kriegsregierung and the ‘Prehistory’ of Professional War Gaming. [*British Journal for Military History* 2, 15-33](http://bjmh.gold.ac.uk/article/view/634).
+- Wintjes, J. (2015). Europe’s Earliest Kriegsspiel? Book Seven of Reinhard Graf zu Solms’ Kriegsregierung and the ‘Prehistory’ of Professional War Gaming. [*British Journal for Military History* 2, 15-33](https://bjmh.gold.ac.uk/article/view/634).
