@@ -2,7 +2,7 @@
 title: Conflict Simulation Group
 description: > # this means to ignore newlines until "baseurl:"
   The Conflict Simulation Group at the University of Würzburg
-url: cosig.github.io
+url: cosimg.github.io
 baseurl: 
 
 site-twitter: #if your site has a twitter account, enter it here
@@ -15,7 +15,7 @@ social-twitter: CoSimG # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: https://github.com/cosimg # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: twelvedaystolondon(at)gmail.com # add your Email address
+social-email: twelvedaystolondon@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: # add your discus identifier
