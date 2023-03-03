@@ -7,3 +7,4 @@ This is the website of the University of Würzburg's Conflict Simulation Group. 
 - Fix iframe window sizes for mobile displays
 - Enlarge members section to include alumni and supporters, if they want
 - mention collaborating institutions
+- Fix url to github-repo in _config.yml
