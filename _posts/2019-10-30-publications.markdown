@@ -38,7 +38,7 @@ The second publication in the Occasional Papers series will provide the rules fo
 
 - Henning, P. (2021). ‘Game on!’ A research project on the Prussian Kriegsspiel. [*British Journal for Military History* 7, 174-183](https://bjmh.gold.ac.uk/article/view/1561).
 
-- Wintjes J. (2019). Das Kriegsspiel des Wilhelm von Tschischwitz. *GIDS Analysis 3*, Hamburg: Budrich.
+- Wintjes J. (2019). *Das Kriegsspiel des Wilhelm von Tschischwitz (GIDS Analysis 3)*. Hamburg: Budrich.
 
 - Wintjes, J. and Pielström, S. (2019). "Preußisches Kriegsspiel" - Ein Projekt an der Julius-Maximilians-Universität Würzburg. *Militärgeschichtliche Zeitschrift* 78, 86-98.
 
