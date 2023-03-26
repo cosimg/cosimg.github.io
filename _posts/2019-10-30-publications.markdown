@@ -22,7 +22,7 @@ Please note that copies produced for online retailers outside Germany will be in
 
 Wintjes, J. and Pielström, S. 2022. *Sussex Sorrows. A set of Kriegsspiel rules including the supplements Doom of Eastbourne and Useful Idiots And Insufferable Geniuses*. Norderstedt: BoD. ISBN: 978-3756852352.
 
-For additional information see this relevant [blog entry](https://cosimg.github.io/blog/2022/12/15/How-to-run-a-Kriegsspiel.html), for suggestions for tokens see this [blog entry](https://cosimg.github.io/blog/2023/01/28/Tokens-for-SussexSorrows.html).
+For additional information see [this blog entry](https://cosimg.github.io/blog/2022/12/15/How-to-run-a-Kriegsspiel.html), for suggestions for tokens see [this blog entry](https://cosimg.github.io/blog/2023/01/28/Tokens-for-SussexSorrows.html).
 
 ***Occasional Papers no 2***:
 
