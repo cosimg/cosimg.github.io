@@ -26,6 +26,12 @@ For additional information see [this blog entry](https://cosimg.github.io/blog/2
 
 ***Occasional Papers no 2***:
 
+Wintjes, J. and Pielström, S. 2023. *Der Krieg von 1866 im preussischen Kriegsspiel. Eine Anleitung*. Norderstedt: BoD. ISBN: 978-3758308987.
+
+Please note that this publication. which is the result of running 1866-themed Kriegsspiele at the German *Führungsakademie* is in German. It expands on the notes on running a Kriegsspiel provided in [this blog entry](https://cosimg.github.io/blog/2022/12/15/How-to-run-a-Kriegsspiel.html) and provides information on how to apply the 1867 Tschischwitz ruleset to 1866-themed scenarios.
+
+***Occasional Papers no 3***:
+
 Wintjes, J. and Pielström, S. (in preparation). *La Pluie de Balles – Invasion Scare as Conflict Simulation.*
 
 The second publication in the Occasional Papers series will provide the rules for CoSimG's gamefied Kriegsspiel, *Pluie de Balles*; for more information see [here](https://cosimg.github.io/2019/11/02/classroom-simulations.html) and [here (external link)](https://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/). 
