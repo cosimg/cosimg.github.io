@@ -34,7 +34,7 @@ Please note that this publication. which is the result of running 1866-themed Kr
 
 Wintjes, J. and Pielström, S. (in preparation). *La Pluie de Balles – Invasion Scare as Conflict Simulation.*
 
-The second publication in the Occasional Papers series will provide the rules for CoSimG's gamefied Kriegsspiel, *Pluie de Balles*; for more information see [here](https://cosimg.github.io/2019/11/02/classroom-simulations.html) and [here (external link)](https://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/). 
+The third publication in the Occasional Papers series will provide the rules for CoSimG's gamefied Kriegsspiel, *Pluie de Balles*; for more information see [here](https://cosimg.github.io/2019/11/02/classroom-simulations.html) and [here (external link)](https://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/). 
 
 **Other Publications on conflict simulation by members of the Conflict Simulation Group:**
 
