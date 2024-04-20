@@ -32,11 +32,13 @@ Please note that this publication. which is the result of running 1866-themed Kr
 
 ***Occasional Papers no 3***:
 
-Wintjes, J. and Pielström, S. (in preparation). *La Pluie de Balles – Invasion Scare as Conflict Simulation.*
+Wintjes, J. and Pielström, S. 2023. *Pluie de Balles: A Gamefied Kriegsspiel*. Norderstedt: BoD. ISBN: 978-3757863104.
 
-The third publication in the Occasional Papers series will provide the rules for CoSimG's gamefied Kriegsspiel, *Pluie de Balles*; for more information see [here](https://cosimg.github.io/2019/11/02/classroom-simulations.html) and [here (external link)](https://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/). 
+The third publication in the Occasional Papers series provides the rules for CoSimG's gamefied Kriegsspiel, *Pluie de Balles*; for more information see [here](https://cosimg.github.io/2019/11/02/classroom-simulations.html) and [here (external link)](https://analoggamestudies.org/2018/09/pluie-de-balles-complex-wargames-in-the-classroom/). 
 
 **Other Publications on conflict simulation and related topics by members of the Conflict Simulation Group:**
+
+Wintjes, J. (2024). 'Sharp like cut iron': Albrecht von Stosch and the beginning of German naval wargaming, in: *The Mariner's Mirror* 110.1, 2024, 84-96. (https://doi.org/10.1080/00253359.2024.2291953)
 
 - Wintjes, J. (2023). 'They got it all wrong!' - Victorian War Fiction and the First World War. [*British Journal for Military History* 9.3, 41-61](https://bjmh.gold.ac.uk/index.php/bjmh/article/view/1737/1848).
 
