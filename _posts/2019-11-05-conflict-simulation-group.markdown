@@ -8,6 +8,31 @@ fig-caption: # Add figcaption (optional)
 tags: [about]
 ---
 
+The Conflict Simulation Group (CoSimG), currently located at the **University of Würzburg, Germany**, has been using conflict simulations as an educational tool from 2009 onwards. Since then, CoSimG has developed several rule sets addressing a variety of topics ranging from Late Bronze Age warfare to 21st c. peer level conflicts, and conducted research on the history of conflict simulations in military training. One of CoSimG's main areas of activitiy is researching the Prussian Kriegsspiel, the world's first educational wargame officially adopted. CoSimG has reconstructed the mid- to late 1860s Kriegsspiel with the purpose of providing 21st c. military decision makers an educational experience unlike most other educational wargames currently offer.
+
+CoSimG has run large scale Kriegsspiel type wargames at various military institutions, including:
+
+**German Armed Forces Staff College**, Hamburg
+
+**German Army Warfighting Simulation Centre**, Wildflecken
+
+**German Army Infantry School**, Hammelburg
+
+**German Army School for Military Police and Staff Service**, Hanover
+
+CoSimG has also run presentational Kriegsspiel type wargames at various conferences including
+
+**Wargaming Initiative for NATO 2023 (WIN 23), Allied Command Transformation**, Rome 
+
+**International Wargaming Symposium, Peruvian Naval War College**, Lima
+
+CoSimG also runs a regular wargaming course at 
+
+**Helmut Schmidt Universität der Bundeswehr**, Hamburg.
+
+In 2022, CoSimG has launched a series of publications supporting its wargaming activties; the Occasional Papers series covers the educational wargames designes by CoSimG and includes rulesets and supplementary material. For more information see here [link].
+
+
 The Conflict Simulation Group, located at the **University of Würzburg**, Germany, has begun using conflict simulations as an educational tool in 2011. Since then, the group has developed a number of rule sets addressing various topics, and conducted research on the history of conflict simulations in military training. Beside our regular teaching activities at the University of Würzburg, we have organized war games at other locations, including **Helmut Schmidt University**, the **GIDS** in Hamburg, the **German Army Warfighting Simulation Centre** in Wildflecken and the **German Army's Infantry School** in Hammelburg.
 
 **Jorit Wintjes** studied Ancient and Contemporary History, Latin and ancient Greek at the University of Würzburg. He wrote a PhD thesis on the Antiochene orator Libanius and a *Habilitationsschrift* on Roman naval operations in north-western Europe. His research interests include ancient and pre-WWI military history, the role of women in warfare and the use of conflict simulations in officer training. He is a professor at the Würzburg [Ancient History Department](http://www.geschichte.uni-wuerzburg.de/institut/alte-geschichte/) teaching in the history and digital humanities programmes.
