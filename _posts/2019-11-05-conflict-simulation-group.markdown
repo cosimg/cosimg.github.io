@@ -22,13 +22,13 @@ CoSimG has run large scale Kriegsspiel type wargames at various military institu
 
 **German Army School for Military Police and Staff Service**, Hanover
 
-CoSimG has also run presentational Kriegsspiel type wargames at various conferences including
+CoSimG has also run presentational Kriegsspiel type wargames at various conferences including:
 
 **Wargaming Initiative for NATO 2023 (WIN 23), Allied Command Transformation**, Rome 
 
 **International Wargaming Symposium, Peruvian Naval War College**, Lima
 
-CoSimG also runs a regular wargaming course at 
+CoSimG also runs a regular wargaming course at: 
 
 **Helmut Schmidt Universität der Bundeswehr**, Hamburg.
 
