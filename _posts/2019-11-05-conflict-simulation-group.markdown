@@ -32,7 +32,7 @@ CoSimG also runs a regular wargaming course at
 
 **Helmut Schmidt Universität der Bundeswehr**, Hamburg.
 
-In 2022, CoSimG has launched a series of publications supporting its wargaming activties; the Occasional Papers series covers the educational wargames designes by CoSimG and includes rulesets and supplementary material. For more information see here [linkhttps://cosimg.github.io/2019/10/30/publications.html].
+In 2022, CoSimG has launched a series of publications supporting its wargaming activties; the Occasional Papers series covers the educational wargames designes by CoSimG and includes rulesets and supplementary material. For more information see [the publications section on this website](https://cosimg.github.io/2019/10/30/publications.html).
 
 **II. The Conflict Simulation Group**
 
