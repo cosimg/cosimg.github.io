@@ -3,7 +3,7 @@ layout: page
 title: Pluie de Balles
 date: 2024-08-03 13:32:20 +0300
 description: 
-img: victorian_kriegsspielers.png # Add image post (optional)
+img: Seaford_1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Pluie de Balles]
 ---
