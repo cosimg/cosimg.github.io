@@ -27,7 +27,7 @@ The ruleset used for running PdB has been published by the Conflict Simulation G
 
 In addition to the ruleset, there is a rules FAQ which can be found here:
 
-[https://cosimg.github.io/blog/2024/11/07/pdb-faq.html]
+[**Pluie de Balles - FAQ**(https://cosimg.github.io/blog/2024/11/07/pdb-faq.html)]
 
 It provides - hopefully that is - answers to questions that may arise from the rules. As participants have the habit of finding ever new loopholes to exploit, it is likely to be updated fairly regularly.
 
