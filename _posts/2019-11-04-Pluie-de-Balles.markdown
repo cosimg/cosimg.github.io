@@ -25,6 +25,12 @@ Finally, how does a typical setup for a large PdB game look like? The staff team
 
 The ruleset used for running PdB has been published by the Conflict Simulation Group, for details see the publications section of this website. 
 
+In addition to the ruleset, there is a rules FAQ which can be found here:
+
+[https://cosimg.github.io/blog/2024/11/07/pdb-faq.html]
+
+It provides - hopefully that is - answers to questions that may arise from the rules. As participants have the habit of finding ever new loopholes to exploit, it is likely to be updated fairly regularly.
+
 To get an impression of how PdB games look like, there are some recent game reports in the blog section; for ease of access these have been listed below (some of the links lead to sites that are picture-heavy). Note that the Liverpool scenario is recurring; with sometimes different setups it is usually run three times a year with a large group of early-career military decision makers.
 
 [July 2024 - **Once more time for the French in Liverpool**](https://cosimg.github.io/blog/2024/03/07/drama-in-Liverpool.html)
