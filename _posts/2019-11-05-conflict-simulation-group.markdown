@@ -8,8 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [about]
 ---
 
-![Logo3](https://github.com/user-attachments/assets/Logo3.png)
-
+![]()
 
 **I. Activities**
 
