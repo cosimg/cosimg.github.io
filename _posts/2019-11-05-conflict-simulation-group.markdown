@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The conflict simulation group
+title: CoSIMG - The Conflict Simulation Group
 date: 2019-11-05 14:33:20 +0300
 description: 
 img: Festung_Marienberg.png # Add image post (optional)
@@ -13,6 +13,10 @@ tags: [about]
 The Conflict Simulation Group (CoSimG), currently located at the **University of Würzburg, Germany**, has been using conflict simulations as an educational tool from 2009 onwards. Since then, CoSimG has developed several rule sets addressing a variety of topics ranging from Late Bronze Age warfare to 21st c. peer level conflicts, and conducted research on the history of conflict simulations in military training. One of CoSimG's main areas of activitiy is researching the Prussian Kriegsspiel, the world's first educational wargame officially adopted. CoSimG has reconstructed the mid- to late 1860s Kriegsspiel with the purpose of providing 21st c. military decision makers an educational experience unlike most other educational wargames currently offer.
 
 CoSimG has run large scale Kriegsspiel type wargames at various military institutions, including:
+
+**NATO Join Warfighting Center**, Stavanger
+
+**Royal Danish Defence College**, Copenhagen
 
 **German Armed Forces Staff College**, Hamburg
 
