@@ -40,6 +40,8 @@ CoSimG also runs a regular wargaming course at:
 
 In 2022, CoSimG has launched a series of publications supporting its wargaming activties; the Occasional Papers series covers the educational wargames designes by CoSimG and includes rulesets and supplementary material. For more information see [the publications section on this website](https://cosimg.github.io/2019/10/30/publications.html).
 
+![](https://github.com/cosimg/cosimg.github.io/blob/main/assets/img/Logo3.png)
+
 **II. The Conflict Simulation Group**
 
 **Jorit Wintjes** studied Ancient and Contemporary History, Latin and ancient Greek at the University of Würzburg. He wrote a PhD thesis on the Antiochene orator Libanius and a *Habilitationsschrift* on Roman naval operations in north-western Europe. His research interests include ancient and pre-WWI military history, the role of women in warfare and the use of conflict simulations in officer training. He is a professor at the Würzburg [Ancient History Department](http://www.geschichte.uni-wuerzburg.de/institut/alte-geschichte/) teaching in the history and digital humanities programmes.
