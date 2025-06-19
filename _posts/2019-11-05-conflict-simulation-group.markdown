@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CoSIMG - The Conflict Simulation Group
+title: CoSimG - The Conflict Simulation Group
 date: 2019-11-05 14:33:20 +0300
 description: 
 img: Festung_Marienberg.png # Add image post (optional)
