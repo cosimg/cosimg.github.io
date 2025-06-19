@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [about]
 ---
 
-![](https://github.com/cosimg/cosimg.github.io/blob/main/assets/img/Logo3.png)
+![](https://raw.githubusercontent.com/cosimg/cosimg.github.io/main/assets/img/Logo3.png)
 
 **I. Activities**
 
