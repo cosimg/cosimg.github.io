@@ -15,23 +15,25 @@ The Conflict Simulation Group (CoSimG), currently located at the **University of
 
 CoSimG has run large scale Kriegsspiel type wargames at various military institutions, including:
 
-**NATO Join Warfighting Center**, Stavanger
+**-  NATO Join Warfighting Center**, Stavanger
 
-**Royal Danish Defence College**, Copenhagen
+**-  Royal Danish Defence College**, Copenhagen
 
-**German Armed Forces Staff College**, Hamburg
+**-  German Armed Forces Staff College**, Hamburg
 
-**German Army Warfighting Simulation Centre**, Wildflecken
+**-  German Army Warfighting Simulation Centre**, Wildflecken
 
-**German Army Infantry School**, Hammelburg
+**-  German Army Infantry School**, Hammelburg
 
-**German Army School for Military Police and Staff Service**, Hanover
+**-  German Army School for Military Police and Staff Service**, Hanover
 
 CoSimG has also run presentational Kriegsspiel type wargames at various conferences including:
 
-**Wargaming Initiative for NATO 2023 (WIN 23), Allied Command Transformation**, Rome 
+**-  Wargaming Initiative for NATO 2024 (WIN 24), Allied Command Transformation**, Hamburg
 
-**International Wargaming Symposium, Peruvian Naval War College**, Lima
+**-  Wargaming Initiative for NATO 2023 (WIN 23), Allied Command Transformation**, Rome 
+
+**-  International Wargaming Symposium, Peruvian Naval War College**, Lima
 
 CoSimG also runs a regular wargaming course at: 
 
@@ -43,9 +45,8 @@ In 2022, CoSimG has launched a series of publications supporting its wargaming a
 
 **II. The Conflict Simulation Group**
 
-**Jorit Wintjes** studied Ancient and Contemporary History, Latin and ancient Greek at the University of Würzburg. He wrote a PhD thesis on the Antiochene orator Libanius and a *Habilitationsschrift* on Roman naval operations in north-western Europe. His research interests include ancient and pre-WWI military history, the role of women in warfare and the use of conflict simulations in officer training. He is a professor at the Würzburg [Ancient History Department](http://www.geschichte.uni-wuerzburg.de/institut/alte-geschichte/) teaching in the history and digital humanities programmes.
+**Jorit Wintjes** studied Ancient and Contemporary History, Latin and ancient Greek at the University of Würzburg. He wrote a PhD thesis on the Antiochene orator Libanius and a *Habilitationsschrift* on Roman naval operations in north-western Europe. His research interests include ancient and pre-WWI military history, the role of women in warfare and the use of conflict simulations in officer training, specifically the history and employment of the Prussian Kriegsspiel. He is a professor at the Würzburg [Ancient History Department](http://www.geschichte.uni-wuerzburg.de/institut/alte-geschichte/) teaching in its History and Digital Humanities programmes.
 
-**Steffen Pielström** studied biology at the University of Würzburg. He wrote a PhD thesis on organization processes, information use and decision making in ant societies. His current research interests include computational text analysis, the application of quantitative methodology in humanities research, and the simulation and modelling of conflicts. He currently works as a project coordinator at the [Department of Literary Computing](https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/startseite/) and teaches data analysis skills in the digital humanities programme.
+**Steffen Pielström** studied biology at the University of Würzburg. He wrote a PhD thesis on organization processes, information use and decision making in ant societies. His current research interests include computational text analysis, the application of quantitative methodology in humanities research, and the simulation and modelling of conflicts. He currently works as a project coordinator at the [Department of Literary Computing](https://www.germanistik.uni-wuerzburg.de/lehrstuehle/computerphilologie/startseite/) and teaches data analysis skills in the Digital Humanities programme.
 
-**Pia Henning** studied Digital Humanities and German Literature at the University of Würzburg. For her Master thesis she digitized the available German *Kriegsspiel* rule sets to machine readable TEI and produced the first linguistic analysis of the rule sets as a texts genre. For her PhD thesis, she is developing an ontology for the annotation of rule sets and prepares a digital edition for diachronic and comparative analysis. She is currently working as a data engineer.
-
+**Pia Hofmann** Pia Hofmann (geb. Henning) studied Digital Humanities and German Literature at the University of Würzburg. For her MA thesis she digitized the available German Kriegsspiel rule sets to be machine readable and produced the first linguistic analysis of the rule sets as a text genre. For her PhD thesis, she is developing a TEI-schema for the annotation of rule sets and prepares a digital edition and ontology for diachronic and comparative analysis. She is currently working as a research assistant in the field of AI and digital editions at BBAW (Berlin-Brandenburgische Akademie der Wissenschaftender Wissenschaften).
