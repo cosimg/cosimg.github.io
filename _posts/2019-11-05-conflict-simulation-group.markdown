@@ -57,7 +57,9 @@ In 2022, CoSimG has launched a series of publications supporting its wargaming a
 
 **III. Impressum** 
 
+
 Conflict Simulation Group
+
 Jorit Wintjes
 
 c/o Online-Impressum #8124
