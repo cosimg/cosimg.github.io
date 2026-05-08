@@ -58,18 +58,12 @@ In 2022, CoSimG has launched a series of publications supporting its wargaming a
 **III. Impressum** 
 
 
-Conflict Simulation Group
-
-Jorit Wintjes
+Conflict Simulation Group - Jorit Wintjes
 
 c/o Online-Impressum #8124
 
-Europaring 90
+Europaring 90 - 53757 St Augustin
 
-53757 St Augustin
-
-E-Mail: twelvedaystolondon@gmail.com
-
-[Zweiter Kontaktweg](https://mein.online-impressum.de/cosimg/#Zweiter_Kontaktweg)
+E-Mail: twelvedaystolondon@gmail.com - [Zweiter Kontaktweg](https://mein.online-impressum.de/cosimg/#Zweiter_Kontaktweg)
 
 Zuständige Regulierungs- und Aufsichtsbehörde: Bayerische Landeszentrale für neue Medien Sitz: Deutschland
