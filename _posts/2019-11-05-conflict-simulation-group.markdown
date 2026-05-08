@@ -66,4 +66,4 @@ Europaring 90 - 53757 St Augustin
 
 E-Mail: twelvedaystolondon@gmail.com - [Zweiter Kontaktweg](https://mein.online-impressum.de/cosimg/#Zweiter_Kontaktweg)
 
-Zuständige Regulierungs- und Aufsichtsbehörde: Bayerische Landeszentrale für neue Medien Sitz: Deutschland
+Zuständige Regulierungs- und Aufsichtsbehörde: Bayerische Landeszentrale für neue Medien - Sitz: Deutschland
