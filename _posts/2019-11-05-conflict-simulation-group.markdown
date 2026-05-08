@@ -43,6 +43,8 @@ In 2022, CoSimG has launched a series of publications supporting its wargaming a
 
 ![](https://raw.githubusercontent.com/cosimg/cosimg.github.io/main/assets/img/Logo5.png)
 
+--------------------------------------------------
+
 **II. The Conflict Simulation Group**
 
 **Jorit Wintjes** studied Ancient and Contemporary History, Latin and ancient Greek at the University of Würzburg. He wrote a PhD thesis on the Antiochene orator Libanius and a *Habilitationsschrift* on Roman naval operations in north-western Europe. His research interests include ancient and pre-WWI military history, the role of women in warfare and the use of conflict simulations in officer training, specifically the history and employment of the Prussian Kriegsspiel. He is a professor at the Würzburg [Ancient History Department](http://www.geschichte.uni-wuerzburg.de/institut/alte-geschichte/) teaching in its History and Digital Humanities programmes.
@@ -52,3 +54,18 @@ In 2022, CoSimG has launched a series of publications supporting its wargaming a
 **Pia Hofmann** Pia Hofmann (geb. Henning) studied Digital Humanities and German Literature at the University of Würzburg. For her MA thesis she digitized the available German Kriegsspiel rule sets to be machine readable and produced the first linguistic analysis of the rule sets as a text genre. For her PhD thesis, she is developing a TEI-schema for the annotation of rule sets and prepares a digital edition and ontology for diachronic and comparative analysis. She is currently working as a research assistant in the field of AI and digital editions at BBAW (Berlin-Brandenburgische Akademie der Wissenschaftender issenschaften).
 
 **Teresa Ó Dúill** Teresa Ó Dúill did her BA in History and English Studies at the University of Würzburg, where she is now also concluding her MA in History. For her Master's thesis, she is looking at eating habits of soldiers in Ancient Rome. Next to her own studies, she is also a lecturer in the university's English Department (Sprachpraxis).
+
+--------------------------------------------------
+
+**III. Impressum** 
+
+Conflict Simulation Group
+Jorit Wintjes
+c/o Online-Impressum #8124
+Europaring 90
+53757 St Augustin
+
+E-Mail: twelvedaystolondon@gmail.com
+[Zweiter Kontaktweg](https://mein.online-impressum.de/cosimg/#Zweiter_Kontaktweg)
+
+Zuständige Regulierungs- und Aufsichtsbehörde: Bayerische Landeszentrale für neue Medien Sitz: Deutschland
